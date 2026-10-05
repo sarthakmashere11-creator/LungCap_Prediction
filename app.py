@@ -4,7 +4,7 @@ import pickle
 # -----------------------------
 # Load the trained model
 # -----------------------------
-model = pickle.load(open("lung_model.pkl", "rb"))
+model = pickle.load(open("lungcap-model1.pkl", "rb"))
 
 
 # -----------------------------
